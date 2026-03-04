@@ -24,7 +24,7 @@ I Semestre 2026
 ---
 
 ### Descripción
-El presente repositorio es un control de versiones de los trabajos académicos desarrollados por el estudiante en el curso CE4302 – Arquitectura de Computadores II. Su propósito contener y presentar todos los archivos relacionados con las asignaciones, tareas y proyectos individuales realizadas durante el semestre.
+Esta es una boveda de conocimiento adquirido personal para el curso CE1116 Diseño y Calidad de Productos. Se utilizan herramientas como Obsidian y NotebookLM.
  
 ### Estudiante
 <ul class="custom-list">
