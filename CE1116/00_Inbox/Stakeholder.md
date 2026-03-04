@@ -2,12 +2,14 @@
 Fecha de creación: 2026-02-25 20:20
 Fecha de Modificación: 2026-02-25 20:28
 tags:
-Tema:
+  - Interezados
+  - Proyecto
+  - Agile
+Tema: Participantes-del-proyecto
 ---
-
 ## 📚 Idea/Concepto 
 
-El *stakeholder* hace referencia a la parte interesada ya sea en una organización o proyecto. Normalmente porque desea obtener un beneficio o porque ha invertido dienero para su objetivo. [[@sommervilleIngenieriaSoftwarea]]   
+El *stakeholder* hace referencia a la parte interesada ya sea en una organización o proyecto. Normalmente porque desea obtener un beneficio o porque ha invertido dienero para su objetivo. [[Ingenieria de Software]]   
 ## 📌 Puntos Claves (Opcional)
 - **parte interesada**
 - agentes implicados
@@ -30,7 +32,9 @@ El *stakeholder* hace referencia a la parte interesada ya sea en una organizaci�
 	- Legitimar y controlar deciciones
 
 ## 🔗 Connections
-- [[ ]]
+- [[Requerimientos de Negocio]]
+- [[Functional Testing]]
+- [[User Story]]
  
 ## 🧾 Recursos (Opcional)
 - https://www.impulsa-empresa.es/diccionario/stakeholder/

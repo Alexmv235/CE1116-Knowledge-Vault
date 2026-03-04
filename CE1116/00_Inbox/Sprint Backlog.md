@@ -1,8 +1,12 @@
 ---
 Fecha de creación: 2026-03-01 23:12
 Fecha de Modificación: 2026-03-01 23:12
-tags: 
-Tema:
+tags:
+  - Agile
+  - Scrum
+  - Sprint
+  - Tasks
+Tema: Sprints
 ---
 
 
@@ -15,8 +19,5 @@ El **Sprint Backlog** es el subconjunto de elementos del Product Backlog que el 
 ## 🔗 Connections
 - [[CE1116/00_Inbox/Scrum|Scrum]]
 - [[Filosofía ágil]]
-
-## 💡 Personal Insight (Opcional)
-- 
 ## 🧾 Recursos (Opcional)
-- 
+- [[Software Requirements, Third Edition]]
